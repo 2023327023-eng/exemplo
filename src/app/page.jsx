@@ -1,5 +1,11 @@
 
-import styles from "./page.module.css";
+
 
 export default function Home() {
-  return }
+  return(
+    <div>
+      <h1>Bem vindo</h1>
+
+    </div>
+  )
+ }
